@@ -14,8 +14,12 @@ Le terme "application web" est ici employé pour parler de notre site web. :)
 - Offrez une interface utilisateur conviviale permettant de modifier le contenu des tâches existantes facilement. Le CSS est encouragé pour que votre design soit attractif, mais non obligatoire. L'important c'est le code PHP, même si vos compétences en UI/US seront appréciées en bonus.
 - Assurez-vous que les tâches restent persistantes même après la fermeture et le redémarrage de l'application en lisant et en écrivant le contenu du fichier JSON au chargement et à la modification de la page, respectivement.
 - Veillez à la validation des données entrées par les utilisateur·ice·s pour garantir la sécurité et l'intégrité des données stockées dans le fichier JSON.
+- N'oubliez pas de prendre en charge la gestion des erreurs pour informer les utilisateurs des problèmes rencontrés lors de l'interaction avec l'application.
 - Votre code sera commenté pour les fonctionnalités importantes.
 
 ## Bonus :
+- Implémenter une fonctionnalité de recherche permet aux utilisateur·ice·s de rechercher des tâches par mot-clé ou par date limite.
 - Créer une page pour gérer les catégories disponibles pour les tâches. Un formulaire permet de créer/modifier/supprimer une catégorie. Si on supprimer une catégorie et quelle avait des tâches assignées, il faut changer la catégorie de ces tâches restantes à "defaut". Ces catégories relatives à l'utilisateur·ice seront stockés dans le fichier JSON des utilisateur·ice·s dans le profil de l'utilisateur·ice qui est connecté·e.
-- Une fonctionnalité de recherche permet aux utilisateur·ice·s de rechercher des tâches par mot-clé ou par date limite.
+- Mettre en place une pagination pour gérer efficacement les grandes listes de tâches.
+- Implémenter une fonctionnalité de filtrage permettant aux utilisateur·ice·s de voir uniquement les tâches terminées, les tâches non terminées ou toutes les tâches. (comme on n'utilise pas Javascript, il va pour ça falloir peut-être utiliser plusieurs formulaires ou faire différentes pages que vous pourrez mettre en lien, la technique est libre !).
+- Implémenter des fonctionnalités de tri permettant aux utilisateurs de trier les tâches par date de création, date limite, priorité, etc. (même recommandation que juste avant)
