@@ -23,3 +23,7 @@ Le terme "application web" est ici employé pour parler de notre site web. :)
 - Mettre en place une pagination pour gérer efficacement les grandes listes de tâches.
 - Implémenter une fonctionnalité de filtrage permettant aux utilisateur·ice·s de voir uniquement les tâches terminées, les tâches non terminées ou toutes les tâches. (comme on n'utilise pas Javascript, il va pour ça falloir peut-être utiliser plusieurs formulaires ou faire différentes pages que vous pourrez mettre en lien, la technique est libre !).
 - Implémenter des fonctionnalités de tri permettant aux utilisateurs de trier les tâches par date de création, date limite, priorité, etc. (même recommandation que juste avant)
+  
+## Mode d'évaluation :
+- Présentation orale de 10 minutes devant la promo le jeudi 22 février après-midi, où vous présenterez votre code, ainsi que les difficultés rencontrées.
+- Il est attendu que vous présentiez au moins un bug que vous avez eu, la recherche internet que vous avez faite et la ressource web (forum, site de cours...) qui vous a aidé à la résoudre. L'idée est d'expliquer votre fonctionnement neuronal en cas de bug rencontré.
