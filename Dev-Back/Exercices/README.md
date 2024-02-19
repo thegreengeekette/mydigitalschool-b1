@@ -25,3 +25,19 @@
 - Créer un variable avec un article à chercher et boucler sur le tableau pour chercher une correspondance.
 - Pour cela comparer le nom de chaque article de la liste et la variable de l'article à chercher.
 - Si on le trouve enlever 1 du stock et mettre à jour la liste qu'on affiche à nouveau.
+
+# Exercices "Lecture & écriture de fichiers"
+
+## EXERCICE 1
+
+- Stocker le nom du fichier dans une variable qui soit une chaîne de caractères.
+- Avec la fonction fopen (https://www.php.net/manual/fr/function.fopen.php), ouvrir le fichier en mode écriture + lecture.
+- Si le fichier n'existe pas il doit être créé automatiquement.
+- Avec la fonction fwrite (https://www.php.net/manual/fr/function.fwrite.php) écrire dans le ficher et récupérer le nombre d'octets écrits dans le fichier pour l'afficher.
+- Avec la fonction fclose, refermer le fichier pour libérer la mémoire.
+
+## EXERCICE 2
+
+- Vérifier qu'un fichier existe avec la fonction file_exists (https://www.php.net/manual/fr/function.file-exists.php).
+- Récupérer la taille d'un fichier avec filesize (https://www.php.net/manual/fr/function.filesize.php)
+- Lire un fichier avec fread (https://www.php.net/manual/fr/function.fread.php)   
