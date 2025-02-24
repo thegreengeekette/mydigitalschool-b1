@@ -27,6 +27,6 @@ Le terme "application web" est ici employé pour parler de notre site web. :)
 - Implémenter des fonctionnalités de tri permettant aux utilisateurs de trier les tâches par date de création, date limite, priorité, etc. (même recommandation que juste avant)
   
 ## Mode d'évaluation :
-- Présentation orale de 10 minutes devant la promo le jeudi 22 février après-midi, où vous présenterez votre code, ainsi que les difficultés rencontrées.
+- Présentation orale de 10 minutes devant la promo le mercredi 26 février après-midi, où vous présenterez votre code, ainsi que les difficultés rencontrées.
 - Il est attendu que vous présentiez au moins un bug que vous avez eu, la recherche internet que vous avez faite et la ressource web (forum, site de cours...) qui vous a aidé à la résoudre. L'idée est d'expliquer votre fonctionnement neuronal en cas de bug rencontré.
 - Vous serez évalué·e·s sur les fonctionnalités minimales attendues, celles proposées dans Bonus sont optionnelles si vous êtes en avance et vous permettront d'avoir une meilleure note si quelque chose était manquant ailleurs dans le module.
